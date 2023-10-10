@@ -2,4 +2,9 @@
 
 This is a sample code demonstrates how to create Spark Streaming pipeline using Pubsub Lite, Dataproc and Dataproc Metastore.
 
-Tu run 
+Tu run this code simply set your Project ID and Resource Prefix inside setup.sh
+file and run 
+
+```
+./setup.sh
+```
